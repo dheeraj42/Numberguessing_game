@@ -24,7 +24,7 @@ public class Numbergessing {
 				break;
 			}
 		}
-		sc.close();
+		sc.close(); // to close the scanner class
 
 	}
 
